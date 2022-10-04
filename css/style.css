@@ -1094,7 +1094,7 @@ blockquote {
 }
 .pf-style:hover .overlay-content {
   opacity: 1;
-  background-color: rgba(237, 95, 94, 0.9);
+  background-color: #03adfc;
 }
 .portfolio.no-filter .pf-item {
   float: left;
