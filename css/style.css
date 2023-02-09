@@ -1060,6 +1060,8 @@ blockquote {
 .portfolio .pf-image img {
   width: 100%;
   display: block;
+  border-radius: 30px;
+}
 }
 .portfolio .pf-image .overlay .overlay-caption {
   display: table;
@@ -1131,7 +1133,6 @@ blockquote {
   -webkit-transition: all 0.6s;
   font-size: 12px;
   letter-spacing: 2px;
-  border-radius: 25px;
 }
 img.rounded-corners {
   border-radius: 30px;
