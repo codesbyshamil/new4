@@ -1133,6 +1133,9 @@ blockquote {
   letter-spacing: 2px;
   border-radius: 25px;
 }
+img.rounded-corners {
+  border-radius: 30px;
+}
 .pf-filter li .iso-button:hover {
   color: #ed5f5e;
 }
