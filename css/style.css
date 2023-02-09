@@ -1134,7 +1134,7 @@ blockquote {
   font-size: 12px;
   letter-spacing: 2px;
 }
-img.rounded-corners {
+.img.rounded-corners {
   border-radius: 30px;
 }
 .pf-filter li .iso-button:hover {
