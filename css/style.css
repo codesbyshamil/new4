@@ -1131,6 +1131,7 @@ blockquote {
   -webkit-transition: all 0.6s;
   font-size: 12px;
   letter-spacing: 2px;
+  border-radius: 25px;
 }
 .pf-filter li .iso-button:hover {
   color: #ed5f5e;
